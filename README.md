@@ -1,4 +1,4 @@
-# Exercise3: Layout Practice
+# Flutter: Layout Practice
 
 A Flutter project to practise Flutter Layout, following the tutorial: [https://flutter.dev/docs/development/ui/layout/tutorial](https://flutter.dev/docs/development/ui/layout/tutorial)
 
