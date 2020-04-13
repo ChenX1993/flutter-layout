@@ -10,6 +10,11 @@ A Flutter project to practise Flutter Layout, following the tutorial: [https://f
 
 - [*✓*] Android Simulator
 
+## Flutter Command
+
+Open xcode  
+`open ios/Runner.xcworkspace`
+
 ## Screenshot
 
 ![](/screenshots/layout.png)
